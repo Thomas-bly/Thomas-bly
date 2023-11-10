@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Thomas-bly
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Data Marketing in the ESD - Bordeaux
+- 🖥️ I'm on a work-study program at AT Internet and i work on Piano Analytics
+- 📫 How to reach me : boulaythomas09@gmail.com
